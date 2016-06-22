@@ -1,0 +1,2 @@
+print ("Good Bye")
+print ("Goodby Andrei")
