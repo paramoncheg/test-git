@@ -3,5 +3,5 @@ print ("Hello everyone;")
 print ("Hello Andrei;")
 print ("Hello my dear friend;")
 print ("Glad to see you;")
-я опять сюда залез
-изменяю файл из ветки master, в ветке feature/handshake не трогаю
+я опять сюда залез;
+изменяю файл из ветки master, в ветке feature/handshake не трогаю;
