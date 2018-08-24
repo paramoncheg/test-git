@@ -5,3 +5,5 @@ print ("Hello my dear friend;")
 print ("Glad to see you;")
 я опять сюда залез;
 изменяю файл из ветки master, в ветке feature/handshake не трогаю;
+print("Hello from hell! yahhhaahhahah;")
+print("f...k you delimiters, from helllllll, yahhhaahhahah;")
